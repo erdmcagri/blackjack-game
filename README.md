@@ -3,6 +3,8 @@
 Blackjack, bir kart oyunudur.
 
 **Oyunun Hedefi**
+
+
 Kurpiyeri elinizdeki kartların toplamı 21’i aşmadan yenmeniz gerekir. Kazanmak için tam 21 gerekmez, kasadan daha büyük sayıya ulaşmanız yeterlidir. Eğer birisi 21’i aşarsa otomatik olarak kaybeder.
 
 **Kart Puanları**
