@@ -2,16 +2,16 @@
 
 Blackjack, bir kart oyunudur.
 
-- > **Oyunun Hedefi**
+**Oyunun Hedefi**
 Kurpiyeri elinizdeki kartların toplamı 21’i aşmadan yenmeniz gerekir. Kazanmak için tam 21 gerekmez, kasadan daha büyük sayıya ulaşmanız yeterlidir. Eğer birisi 21’i aşarsa otomatik olarak kaybeder.
 
-- > **Kart Puanları**
+**Kart Puanları**
 - Aslar tercihinize göre 1 ya da 11 puan sayılabilir.
 - Papaz, Kız ve Vale 10 puan değerindedir.
 - 2 ve 10 arasındaki diğer kartlar üzerlerindeki rakam kadar puan değerindedir.
 - Kupa, Maça, Karo ya da Sinek renklerinin bu oyunda bir değeri yoktur.
 
-- > **Adım Adım Kurallar**
+**Adım Adım Kurallar**
 - Ortaya bir bahis koyarak oyuna başlarsınız. 
 - Bahisler kabul edildikten sonra, kurpiyer her oyuncuya açık şekilde iki kart dağıtır. Oyuncuların aksine, dağıtıcının kartlarından sadece biri gösteriliyor ve diğer kartı kapalıdır. 
 Oyunun sonuna kadar bu kapalı kart açılmaz.
@@ -21,4 +21,4 @@ Oyunun sonuna kadar bu kapalı kart açılmaz.
 - Bir kerede birden fazla slotta blackjack eli oynuyorsanız, her bir el kasaya karşı değerlendirilecek ve aynı kurallar geçerli olacaktır. Eğer satıcı 21’i geçerse kazanırsın! 
 Normalde satıcı en az 17’ye ulaşana kadar kart çekmek zorundadır.
 
-- > _NOT:_ _Oyun tüm kurallarına bağlı kalınarak yazılmamıştır. Kalan kurallar eklenecektir._
+_NOT:_ _Oyun tüm kurallarına bağlı kalınarak yazılmamıştır. Kalan kurallar eklenecektir._
